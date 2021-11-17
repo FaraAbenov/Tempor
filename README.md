@@ -1,2 +1,4 @@
 # Tempor
-temporary
+##temporary
+
+#no cutting corners
